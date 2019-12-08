@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43bcde3b38db697eb392be2aeabf6518",
+    "revision": "ec5eb4adbdae331161da624d352b71a5",
     "url": "/Abraham-Zilberblat-06.12.19/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Abraham-Zilberblat-06.12.19/static/css/2.4f02353e.chunk.css"
   },
   {
-    "revision": "37fb8f7d096b7cd4d384",
+    "revision": "5b72210a7c19e5b7fac5",
     "url": "/Abraham-Zilberblat-06.12.19/static/css/main.862a5ab5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Abraham-Zilberblat-06.12.19/static/js/2.2f08f955.chunk.js.LICENSE"
   },
   {
-    "revision": "37fb8f7d096b7cd4d384",
-    "url": "/Abraham-Zilberblat-06.12.19/static/js/main.a62e2f74.chunk.js"
+    "revision": "5b72210a7c19e5b7fac5",
+    "url": "/Abraham-Zilberblat-06.12.19/static/js/main.2570243c.chunk.js"
   },
   {
     "revision": "1d82278ae7f9aa042469",
