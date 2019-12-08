@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Abraham-Zilberblat-06.12.19/precache-manifest.72497f01f8aa85dc21d67211c0867131.js"
+  "/Abraham-Zilberblat-06.12.19/precache-manifest.4e2f383969feb854994edbae92706558.js"
 );
 
 self.addEventListener('message', (event) => {
