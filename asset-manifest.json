@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Abraham-Zilberblat-06.12.19/static/css/main.862a5ab5.chunk.css",
-    "main.js": "/Abraham-Zilberblat-06.12.19/static/js/main.814285b6.chunk.js",
-    "main.js.map": "/Abraham-Zilberblat-06.12.19/static/js/main.814285b6.chunk.js.map",
+    "main.js": "/Abraham-Zilberblat-06.12.19/static/js/main.a62e2f74.chunk.js",
+    "main.js.map": "/Abraham-Zilberblat-06.12.19/static/js/main.a62e2f74.chunk.js.map",
     "runtime-main.js": "/Abraham-Zilberblat-06.12.19/static/js/runtime-main.d7f71796.js",
     "runtime-main.js.map": "/Abraham-Zilberblat-06.12.19/static/js/runtime-main.d7f71796.js.map",
     "static/css/2.4f02353e.chunk.css": "/Abraham-Zilberblat-06.12.19/static/css/2.4f02353e.chunk.css",
     "static/js/2.2f08f955.chunk.js": "/Abraham-Zilberblat-06.12.19/static/js/2.2f08f955.chunk.js",
     "static/js/2.2f08f955.chunk.js.map": "/Abraham-Zilberblat-06.12.19/static/js/2.2f08f955.chunk.js.map",
     "index.html": "/Abraham-Zilberblat-06.12.19/index.html",
-    "precache-manifest.09f45e59e21f9b39ee65b5038bceec2b.js": "/Abraham-Zilberblat-06.12.19/precache-manifest.09f45e59e21f9b39ee65b5038bceec2b.js",
+    "precache-manifest.72497f01f8aa85dc21d67211c0867131.js": "/Abraham-Zilberblat-06.12.19/precache-manifest.72497f01f8aa85dc21d67211c0867131.js",
     "service-worker.js": "/Abraham-Zilberblat-06.12.19/service-worker.js",
     "static/css/2.4f02353e.chunk.css.map": "/Abraham-Zilberblat-06.12.19/static/css/2.4f02353e.chunk.css.map",
     "static/css/main.862a5ab5.chunk.css.map": "/Abraham-Zilberblat-06.12.19/static/css/main.862a5ab5.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.4f02353e.chunk.css",
     "static/js/2.2f08f955.chunk.js",
     "static/css/main.862a5ab5.chunk.css",
-    "static/js/main.814285b6.chunk.js"
+    "static/js/main.a62e2f74.chunk.js"
   ]
 }
